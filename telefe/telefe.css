@@ -1,0 +1,27 @@
+#container{
+	margin-top: 100px;
+	margin-left: 200px;
+}
+
+.telefe{
+	float: left;
+	width: 300px;
+	height: 300px;
+	border-style: solid;
+	border-radius: 50%;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.azul{
+	background-color: blue;
+}
+
+.verde{
+	background-color: green;
+}
+
+.rojo{
+	background-color: red;
+}
+	
+	

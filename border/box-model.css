@@ -1,0 +1,22 @@
+hr{
+	border: solid 2px red;
+}
+
+div{
+	border-style: dashed;
+	border-width: 3px;
+	border-color: #ccc;
+}
+
+section{
+	border-bottom-width: 1px;
+	border-bottom-style: groove;
+	border-bottom-color: blue;
+}
+
+h2{
+	border-top: 1px solid orange;
+	border-bottom: 2px groove red;
+	border-left: 3px dashed green;
+	border-right: 4px dotted blue;
+}
